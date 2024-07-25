@@ -8,4 +8,5 @@
 ● #563D7C
 Pero en la maqieta no hacen uso del #000000 sino del #171717;
 
-## Metodologia utilizada BEM# blog-FrontEnd-BEM
+## Metodologia utilizada BEM
+# blog-FrontEnd-BEM
